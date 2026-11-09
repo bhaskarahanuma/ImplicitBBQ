@@ -1,0 +1,109 @@
+{
+  "Religion": {
+    "Hindu": [
+      "Person A worships cow",
+      "Person A worships ganga",
+      "Person A wears tilak",
+      "Person A follows dharma",
+      "Person A visits temple"
+    ],
+    "Muslim": [
+      "Person B wears burka",
+      "Person B prays namaz",
+      "Person B celebrates Eid",
+      "Person B believes in Quran",
+      "Person B has nikkah",
+      "Person B gives zakat",
+      "Person B fasts during Ramadan"
+    ],
+    "Christian": [
+      "Person C observes Good Friday",
+      "Person C attends Sunday service",
+      "Person C says grace before meals",
+      "Person C reads the Bible"
+    ],
+    "Jewish": [
+      "Person E celebrates Hanukkah"
+    ]
+  },
+  "Region": {
+    "American": [
+      "Person A celebrates Thanksgiving Day",
+      "Person A mentions the Super Bowl",
+      "Person A celebrates Fourth of July"
+    ],
+    "African": [
+      "Person B follows ideology of mbaka",
+      "Person B celebrates Independence Day in October"
+    ],
+    "Japanese": [
+      "Person C creates Anime",
+      "Person C rides in Shinkansen"
+    ],
+    "Indian": [
+      "Person D films in Bollywood",
+      "Person D follows Ayurveda practices",
+      "Person D speaks Hindi"
+    ]
+  },
+  "SES": {
+    "Rich": [
+      "Person A lives privileged life",
+      "Person A can buy anything",
+      "Person A has servant",
+      "Person A summers in the Hamptons",
+      "Person A attended an Ivy League school",
+      "Person A drives a luxury car"
+    ],
+    "Poor": [
+      "Person B has no resources",
+      "Person B lives in slum",
+      "Person B is homeless",
+      "Person B uses public transportation",
+      "Person B shops at discount stores"
+    ]
+  },
+  "Age": {
+    "Old": [
+      "Person A uses walking cane",
+      "Person A has wrinkles",
+      "Person A is gray haired",
+      "Person A mentioned their retirement plans",
+      "Person A needs reading glasses"
+    ],
+    "Young": [
+      "Person B has smooth skin",
+      "Person B moves with energy",
+      "Person B is full of curiosity",
+      "Person B just graduated college",
+      "Person B is active on social media",
+      "Person B uses the latest smartphone"
+    ]
+  },
+  "Caste": {
+    "Brahmin": [
+      "Person A wears Janeu",
+      "Person A recites Mantras",
+      "Person A is from priest family"
+    ],
+    "Dalit": [
+      "Person B is outcast"
+    ],
+    "Vaishya": [
+      "Person C has merchant family background"
+    ],
+    "Kshatriya": [
+      "Person D ancestors used to live in a fort"
+    ]
+  },
+  "Gender": {
+    "Male": [
+      "Person A has beard",
+      "Person A has chest hair"
+    ],
+    "Female": [
+      "Person B carries a purse",
+      "Person B wears earrings"
+    ]
+  }
+}
